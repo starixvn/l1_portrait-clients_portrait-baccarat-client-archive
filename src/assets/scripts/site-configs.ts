@@ -20,12 +20,12 @@ const defaultConfig: gc.Configs.SiteConfigs = {
     enableMsgpackParserAllGames: false,
     enableMsgpackParserOnNotification: false,
     websocket: {
-        proxyPath: "sedie",
-        route: "sedie",
+        proxyPath: "baccarat",
+        route: "baccarat",
     },
-    mainObserverNamespace: "SeDie",
+    mainObserverNamespace: "Baccarat",
     tolgeeUrl: "",
-    storagePrefixKey: "Sedie",
+    storagePrefixKey: "Baccarat",
     backgroundNoTranslate: true,
 };
 
